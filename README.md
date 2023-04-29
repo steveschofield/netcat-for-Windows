@@ -1,3 +1,5 @@
+Use for education purposes only. Not for prod use, no libability.  Don't be surprised if AV or Defender blocks it.   
+
 # netcatWindows
 Netcat for Windows 
 
